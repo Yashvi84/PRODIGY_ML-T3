@@ -29,3 +29,8 @@ Evaluate model using: • Accuracy
 
 📊 Results • The notebook concludes with evaluation metrics such as accuracy score and a confusion matrix to assess the model’s performance.
 
+Preview
+
+![image](https://github.com/user-attachments/assets/de359d36-3bdb-49f3-9d80-efd31f285096)
+![image](https://github.com/user-attachments/assets/ca88ca7f-551f-4654-8f02-0e481c36f67d)
+
